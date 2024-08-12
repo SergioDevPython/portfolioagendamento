@@ -1,0 +1,8 @@
+.streamlit 
+# ignore the cache folder
+# all files .pyc
+# all files .pyo
+
+*.pyc
+*.pyo
+__pycache__
